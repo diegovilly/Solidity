@@ -1,2 +1,2 @@
 # Solidity
-Udemy Solidity Course
+Udemy Solidity Course 2
